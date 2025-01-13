@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, My name is Chung </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Data | Security | Computer Science</li>I believe in the value of data and the importance of consistency. I aspire to become a data engineer who focuses on harnessing the power of data through continuous learning and improvement </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Data | Security | Computer Science</li><br>I believe in the value of data and the importance of consistency. I aspire to become a data engineer who focuses on harnessing the power of data through continuous learning and improvement </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
