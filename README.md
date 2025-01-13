@@ -32,6 +32,7 @@
           /> </div> 
     </div>
     <div style="text-align: left;"> 
+    [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=wholeworldisblue)](https://solved.ac/wholeworldisblue)
     [![Solved.ac
-    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{wholeworldisblue})
+    tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wholeworldisblue)](https://solved.ac/wholeworldisblue)
     </div>
